@@ -5,7 +5,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: 'Outfit';
-  overflow-y: hidden;
+  
 }
 #root{
   min-height: 100vh;
